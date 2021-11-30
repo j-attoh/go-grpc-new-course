@@ -2,5 +2,5 @@
 Experimenting with protocol buffers and gRPC by coding a few gRPC prototypes
 
 
-  took inspiration from Stephen Maarek gRPC course
+  Reviewed Stephen Maarek gRPC course , Special Thanks :( 
   
